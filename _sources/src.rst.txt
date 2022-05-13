@@ -1,0 +1,29 @@
+Sample Package
+===============
+
+.. Submodules
+.. ----------
+
+.. sample\_src module
+.. ----------------------
+
+.. .. automodule:: sample_src
+..    :members:
+..    :undoc-members:
+..    :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: sample_src
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: sample_src_2
+   :members:
+   :undoc-members:
+   :show-inheritance:
